@@ -81,3 +81,14 @@ O src é obrigatório e guarda o caminho para a imagem que você quer mostrar na
 
 O alt não é obrigatório mas é realmente recomendado para melhorar acessibilidade, ele mostra a descrição da imagem caso não carregue e leitores de tela usam esse atributo para descrever a imagem para o usuário saber o que ela significa.
 
+## Listas
+Listas servem para agrupar uma coleção de itens, como uma lista de ingredientes ou como será no nosso caso uma lista de contados.
+
+O elemento ul cria uma lista não ordenada, onde a ordem dos elementos não é importante, e é representada com pontos, círculos e quadrados.
+
+\<ol> serve para criar listas ordenadas, nessas a ordem importa portnato são representadas com números, algarismos romanos ou letras.
+
+E o elemento \<li> é um item de uma dessas listas. Um \<li> pode conter vários tipos de contúdos, como parágrafos, imagens e até outras listas.
+
+
+
